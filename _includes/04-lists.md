@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+1. Github
+2. Discord
+3. Spotify
+   1. Daily Mix 1
+   2. Daily Mix 2
